@@ -1,7 +1,7 @@
 {
   "name": "vue-mt-app",
   "version": "1.0.0",
-  "description": "My primo Nuxt.js project",
+  "description": "My ultimate Nuxt.js project",
   "author": "fridolph",
   "private": true,
   "scripts": {
@@ -15,20 +15,30 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.3",
     "cross-env": "^5.2.0",
+    "crypto-js": "^3.1.9-1",
     "element-ui": "^2.4.8",
+    "js-pinyin": "^0.1.9",
     "koa": "^2.6.1",
-    "nuxt": "^2.2.0"
+    "koa-bodyparser": "^4.2.1",
+    "koa-generic-session": "^2.0.1",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.6",
+    "nodemailer": "^4.6.8",
+    "nuxt": "^2.2.0",
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.7.0",
+    "babel-eslint": "^8.2.1",
+    "eslint": "^5.0.1",
     "eslint-config-prettier": "^3.1.0",
-    "eslint-loader": "^2.1.1",
-    "eslint-plugin-prettier": "3.0.0",
-    "eslint-plugin-vue": "^4.7.1",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.9.4",
     "nodemon": "^1.18.4",
     "prettier": "1.14.3",
-    "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.2"
+    "sass-loader": "^7.1.0"
   }
 }

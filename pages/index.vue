@@ -6,7 +6,7 @@
         vue-mt-app
       </h1>
       <h2 class="subtitle">
-        My primo Nuxt.js project
+        My ultimate Nuxt.js project
       </h2>
       <div class="links">
         <a
@@ -32,7 +32,7 @@ export default {
 }
 </script>
 
-<style lang="stylus">
+<style>
 .container {
   min-height: 100vh;
   display: flex;

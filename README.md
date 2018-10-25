@@ -1,6 +1,6 @@
 # vue-mt-app
 
-> My primo Nuxt.js project
+> My ultimate Nuxt.js project
 
 ## Build Setup
 

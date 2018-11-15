@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import MHeader from '@/components/public/header/index.vue'
+import MHeader from '@/components/header/index.vue'
 export default {
   components: {
     MHeader

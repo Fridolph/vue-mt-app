@@ -1,33 +1,28 @@
-.m-header {
-  @at-root .layout-default {
-    .el-header {
+.m-header{
+  @at-root .layout-default{
+    .el-header{
       .m-header {
         width: 100%;
       }
     }
   }
-
-  .el-row:nth-child(1) {
+  .el-row:nth-child(1){
     width: 1190px;
     margin: 0 auto;
     z-index: 9999;
     height: 40px;
     line-height: 40px;
   }
-
-  .el-row:nth-child(2) {
+  .el-row:nth-child(2){
     background: #fff;
-
-    .search-panel {
+    .search-panel{
       width: 1190px;
       margin: 0 auto;
     }
   }
-
   .el-main {
     overflow: unset;
   }
-
   .search-panel {
     height: 157px;
     display: flex;
@@ -57,7 +52,6 @@
         box-sizing: border-box;
         position: relative;
         white-space: nowrap;
-
         .el-input {
           width: 462px;
         }
@@ -121,7 +115,6 @@
           &.searchList {
             padding: 0;
             margin: 0;
-
             dd {
               margin: 0;
               padding: 3px 10px;
@@ -237,7 +230,6 @@
       }
     }
   }
-
   .m-geo {
     color: #666;
     font-size: 12px;
@@ -277,18 +269,15 @@
       }
     }
   }
-
-  .m-nav {
+  .m-nav{
     float: right;
     margin: 0;
     padding: 0;
     z-index: 999;
-
     .nav {
       list-style: none;
       float: right;
       height: 40px;
-
       >li {
         float: left;
         width: 78px;
@@ -417,8 +406,7 @@
 
             &.movie {
               width: 90px;
-
-              dd {
+              dd{
                 width: 100%;
               }
             }
@@ -427,14 +415,12 @@
               width: 380px;
               flex: 1;
               text-align: center;
-
               dd {
                 width: 60px;
                 height: 73px;
                 line-height: 73px;
                 text-align: center;
                 margin: 0 8px;
-
                 img {
                   width: 60px;
                   height: 60px;

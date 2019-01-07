@@ -6,7 +6,9 @@
     <el-main>
       <nuxt/>
     </el-main>
-    <el-footer>Footer</el-footer>
+    <el-footer>
+      
+    </el-footer>
   </el-container>
 </template>
 

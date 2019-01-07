@@ -1,14 +1,10 @@
 <template>
   <div class="m-header">
     <el-row>
-      <el-col>
-        <top-bar />
-      </el-col>
+      <top-bar />
     </el-row>
     <el-row>
-      <el-col>
-        <search-bar />
-      </el-col>
+      <search-bar />
     </el-row>
   </div>
 </template>
